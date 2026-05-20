@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="banner.png" alt="SMOP banner" />
+</p>
+
 # WELCOME!
 
 ## 고려대학교 스마트모빌리티 운영 계획 연구실 입니다.
